@@ -1,0 +1,4 @@
+Bomber=(305.00,392.00), Fighter=(111.49,116.37), distance=356.78
+Bomber=(455.00,99.00), Fighter=(131.47,115.36), distance=343.95
+Bomber=(761.00,866.00), Fighter=(144.32,130.68), distance=979.68
+Bomber escaped
